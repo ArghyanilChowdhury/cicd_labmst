@@ -1,0 +1,10 @@
+{
+  "name": "cicd-labmst",
+  "version": "1.0.0",
+  "description": "GitHub Actions Node.js workflow demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {}
+}
